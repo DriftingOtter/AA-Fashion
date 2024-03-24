@@ -8,7 +8,7 @@ h1, h2, h3, h4, a, input, label {
 }
 
 h1 {
-  font-size: 15rem;
+  font-size: 10vw;
 }
 
 h2, a {
@@ -54,10 +54,10 @@ s
 }
 
 .logo-top {
-  width: 700px;
+  width: 30vw;
   position: absolute;
-  top: 20%;
-  left: 60%;
+  top: 13vw;
+  left: 60vw;
 }
 
 * {
